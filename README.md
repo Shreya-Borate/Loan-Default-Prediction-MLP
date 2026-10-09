@@ -220,7 +220,3 @@ Actual metrics depend on the dataset and will be generated during execution.
 
 **Shreya Borate**  
 Computer Science Graduate | Data Science | Machine Learning | Deep Learning
-
-## License
-
-An MIT License may be added by including a `LICENSE` file in the repository.

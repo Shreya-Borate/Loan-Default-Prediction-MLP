@@ -1,0 +1,2 @@
+Model,Accuracy,Precision,Recall,F1_Score,Iterations,Final_Loss
+Baseline MLP,0.7291666666666666,0.4918032786885246,0.46875,0.48,1000,0.05860407018249438
